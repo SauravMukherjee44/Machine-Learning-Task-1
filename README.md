@@ -1,4 +1,4 @@
-The Sparks Foundation - Machine Learning Tasks
+The Sparks Foundation - Machine Learning Task 1
 
 This repository consist of the tasks given during my internship at The Sparks Foundation.
 
